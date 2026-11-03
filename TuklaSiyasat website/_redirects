@@ -1,0 +1,4 @@
+# Keep the real PKCE callback document; query parameters are forwarded.
+/auth-callback /auth-callback.html 302
+# Existing static files take precedence. Never use a forced 200! here.
+/* /index.html 200

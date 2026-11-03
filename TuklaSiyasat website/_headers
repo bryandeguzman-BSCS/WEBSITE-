@@ -1,0 +1,90 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  Permissions-Policy: camera=(self), microphone=()
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/app.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/universal-links.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/universal-links.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/auth-config.js
+  Cache-Control: no-store
+
+/auth-callback.html
+  Cache-Control: no-store
+
+/auth-callback.js
+  Cache-Control: no-store
+
+/auth-client.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/account.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/account.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/theme-init.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/subjects-data.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/subjects.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/subjects-seed.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/auth-route.js
+  Cache-Control: no-store
+
+/subjects.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/lms.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/lms-data.js
+  Cache-Control: no-store
+
+/lms.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/module-reader.js
+  Cache-Control: no-store
+
+/module-docx.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/module-reader.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/netlify-paths.js
+  Cache-Control: no-store
+
+/assessments.js
+  Cache-Control: no-store
+/assessments.css
+  Cache-Control: no-cache
+
+/navigation.js
+  Cache-Control: no-store
+/navigation.css
+  Cache-Control: no-cache
+
+/module-assessment-parser.js
+  Cache-Control: no-store
+
+/theme.css
+  Cache-Control: no-cache
+

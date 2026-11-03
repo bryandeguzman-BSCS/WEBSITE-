@@ -1,0 +1,34 @@
+EDUNEXUS QR tools - bundled third-party assets
+
+QRCode.js 1.0.0 - David Shim
+License: MIT
+https://github.com/davidshimjs/qrcodejs
+https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js
+
+html5-qrcode 2.3.8 - Minhaz and contributors
+License: Apache-2.0
+https://github.com/mebjas/html5-qrcode
+https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js
+
+Font Awesome Free 6.7.2 - Fonticons, Inc.
+Icons: CC BY 4.0; fonts: SIL OFL 1.1; code: MIT
+https://fontawesome.com/license/free
+Only solid icons are used; solid WOFF2 and TTF fonts are included.
+
+Roboto font - The Roboto Project Authors
+License: SIL Open Font License 1.1
+https://github.com/googlefonts/roboto
+
+See vendor/licenses/ for bundled license texts.
+
+Supabase JavaScript client 2.118.0 - Supabase contributors
+License: MIT
+https://github.com/supabase/supabase-js
+
+Inter - The Inter Project Authors
+License: SIL Open Font License 1.1
+https://github.com/rsms/inter
+
+Plus Jakarta Sans - The Plus Jakarta Sans Project Authors
+License: SIL Open Font License 1.1
+https://github.com/tokotype/PlusJakartaSans
